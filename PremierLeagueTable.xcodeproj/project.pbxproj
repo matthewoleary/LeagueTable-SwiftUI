@@ -14,6 +14,22 @@
 		C62E30CA2892B98A00E65EE3 /* PremierLeagueTableTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C62E30C92892B98A00E65EE3 /* PremierLeagueTableTests.swift */; };
 		C62E30D42892B98A00E65EE3 /* PremierLeagueTableUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C62E30D32892B98A00E65EE3 /* PremierLeagueTableUITests.swift */; };
 		C62E30D62892B98A00E65EE3 /* PremierLeagueTableUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C62E30D52892B98A00E65EE3 /* PremierLeagueTableUITestsLaunchTests.swift */; };
+		C62E30E42892BA0C00E65EE3 /* LeagueTable.json in Resources */ = {isa = PBXBuildFile; fileRef = C62E30E32892BA0C00E65EE3 /* LeagueTable.json */; };
+		C62E30E62892BEFA00E65EE3 /* Services.swift in Sources */ = {isa = PBXBuildFile; fileRef = C62E30E52892BEFA00E65EE3 /* Services.swift */; };
+		C62E30E92892BFC100E65EE3 /* PremTeamsDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = C62E30E82892BFC100E65EE3 /* PremTeamsDTO.swift */; };
+		C68D29622892D47D00F1B0D5 /* PremTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = C68D29612892D47D00F1B0D5 /* PremTable.swift */; };
+		C68D2983289411C000F1B0D5 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = C68D2970289411C000F1B0D5 /* OFL.txt */; };
+		C68D2989289411C000F1B0D5 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C68D2976289411C000F1B0D5 /* Poppins-SemiBold.ttf */; };
+		C6FE2990289E9880006CDE2C /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE298F289E9880006CDE2C /* Fonts.swift */; };
+		C6FE2992289E9C1C006CDE2C /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE2991289E9C1C006CDE2C /* Transitions.swift */; };
+		C6FE2994289EAE05006CDE2C /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE2993289EAE05006CDE2C /* Colors.swift */; };
+		C6FE2999289EC2C2006CDE2C /* SplashShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE2998289EC2C2006CDE2C /* SplashShape.swift */; };
+		C6FE299E289EF925006CDE2C /* LeagueTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE299D289EF925006CDE2C /* LeagueTable.swift */; };
+		C6FE29A0289EF9E2006CDE2C /* ExpandButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE299F289EF9E2006CDE2C /* ExpandButton.swift */; };
+		C6FE29A2289EFA92006CDE2C /* LeagueTableHeaders.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE29A1289EFA92006CDE2C /* LeagueTableHeaders.swift */; };
+		C6FE29A4289EFEB0006CDE2C /* LeagueTableRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE29A3289EFEB0006CDE2C /* LeagueTableRow.swift */; };
+		C6FE29A6289EFFF2006CDE2C /* RankView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE29A5289EFFF2006CDE2C /* RankView.swift */; };
+		C6FE29A8289F0085006CDE2C /* FramedText.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE29A7289F0085006CDE2C /* FramedText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +60,23 @@
 		C62E30CF2892B98A00E65EE3 /* PremierLeagueTableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PremierLeagueTableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C62E30D32892B98A00E65EE3 /* PremierLeagueTableUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremierLeagueTableUITests.swift; sourceTree = "<group>"; };
 		C62E30D52892B98A00E65EE3 /* PremierLeagueTableUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremierLeagueTableUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C62E30E32892BA0C00E65EE3 /* LeagueTable.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = LeagueTable.json; sourceTree = "<group>"; };
+		C62E30E52892BEFA00E65EE3 /* Services.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services.swift; sourceTree = "<group>"; };
+		C62E30E82892BFC100E65EE3 /* PremTeamsDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremTeamsDTO.swift; sourceTree = "<group>"; };
+		C68D29612892D47D00F1B0D5 /* PremTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremTable.swift; sourceTree = "<group>"; };
+		C68D2970289411C000F1B0D5 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		C68D2976289411C000F1B0D5 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		C68D298C2894132800F1B0D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		C6FE298F289E9880006CDE2C /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
+		C6FE2991289E9C1C006CDE2C /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
+		C6FE2993289EAE05006CDE2C /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		C6FE2998289EC2C2006CDE2C /* SplashShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashShape.swift; sourceTree = "<group>"; };
+		C6FE299D289EF925006CDE2C /* LeagueTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueTable.swift; sourceTree = "<group>"; };
+		C6FE299F289EF9E2006CDE2C /* ExpandButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandButton.swift; sourceTree = "<group>"; };
+		C6FE29A1289EFA92006CDE2C /* LeagueTableHeaders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueTableHeaders.swift; sourceTree = "<group>"; };
+		C6FE29A3289EFEB0006CDE2C /* LeagueTableRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueTableRow.swift; sourceTree = "<group>"; };
+		C6FE29A5289EFFF2006CDE2C /* RankView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankView.swift; sourceTree = "<group>"; };
+		C6FE29A7289F0085006CDE2C /* FramedText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramedText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +127,16 @@
 		C62E30B72892B98800E65EE3 /* PremierLeagueTable */ = {
 			isa = PBXGroup;
 			children = (
+				C68D298C2894132800F1B0D5 /* Info.plist */,
 				C62E30B82892B98800E65EE3 /* PremierLeagueTableApp.swift */,
 				C62E30BA2892B98800E65EE3 /* ContentView.swift */,
+				C62E30E52892BEFA00E65EE3 /* Services.swift */,
 				C62E30BC2892B98A00E65EE3 /* Assets.xcassets */,
+				C6FE299C289EF90E006CDE2C /* Views */,
+				C62E30E72892BFB000E65EE3 /* Models */,
+				C6FE298E289E986C006CDE2C /* Utilities */,
 				C62E30BE2892B98A00E65EE3 /* Preview Content */,
+				C62E30E22892B9C600E65EE3 /* Supporting Files */,
 			);
 			path = PremierLeagueTable;
 			sourceTree = "<group>";
@@ -125,6 +164,65 @@
 				C62E30D52892B98A00E65EE3 /* PremierLeagueTableUITestsLaunchTests.swift */,
 			);
 			path = PremierLeagueTableUITests;
+			sourceTree = "<group>";
+		};
+		C62E30E22892B9C600E65EE3 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C62E30E32892BA0C00E65EE3 /* LeagueTable.json */,
+				C68D2965289411C000F1B0D5 /* Poppins */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C62E30E72892BFB000E65EE3 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C62E30E82892BFC100E65EE3 /* PremTeamsDTO.swift */,
+				C68D29612892D47D00F1B0D5 /* PremTable.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C68D2965289411C000F1B0D5 /* Poppins */ = {
+			isa = PBXGroup;
+			children = (
+				C68D2970289411C000F1B0D5 /* OFL.txt */,
+				C68D2976289411C000F1B0D5 /* Poppins-SemiBold.ttf */,
+			);
+			path = Poppins;
+			sourceTree = "<group>";
+		};
+		C6FE298E289E986C006CDE2C /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				C6FE2997289EC295006CDE2C /* Animations */,
+				C6FE298F289E9880006CDE2C /* Fonts.swift */,
+				C6FE2991289E9C1C006CDE2C /* Transitions.swift */,
+				C6FE2993289EAE05006CDE2C /* Colors.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		C6FE2997289EC295006CDE2C /* Animations */ = {
+			isa = PBXGroup;
+			children = (
+				C6FE2998289EC2C2006CDE2C /* SplashShape.swift */,
+			);
+			path = Animations;
+			sourceTree = "<group>";
+		};
+		C6FE299C289EF90E006CDE2C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				C6FE299F289EF9E2006CDE2C /* ExpandButton.swift */,
+				C6FE29A7289F0085006CDE2C /* FramedText.swift */,
+				C6FE299D289EF925006CDE2C /* LeagueTable.swift */,
+				C6FE29A1289EFA92006CDE2C /* LeagueTableHeaders.swift */,
+				C6FE29A3289EFEB0006CDE2C /* LeagueTableRow.swift */,
+				C6FE29A5289EFFF2006CDE2C /* RankView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,6 +329,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C68D2983289411C000F1B0D5 /* OFL.txt in Resources */,
+				C68D2989289411C000F1B0D5 /* Poppins-SemiBold.ttf in Resources */,
+				C62E30E42892BA0C00E65EE3 /* LeagueTable.json in Resources */,
 				C62E30C02892B98A00E65EE3 /* Preview Assets.xcassets in Resources */,
 				C62E30BD2892B98A00E65EE3 /* Assets.xcassets in Resources */,
 			);
@@ -257,7 +358,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6FE29A6289EFFF2006CDE2C /* RankView.swift in Sources */,
+				C6FE29A4289EFEB0006CDE2C /* LeagueTableRow.swift in Sources */,
+				C68D29622892D47D00F1B0D5 /* PremTable.swift in Sources */,
+				C6FE29A2289EFA92006CDE2C /* LeagueTableHeaders.swift in Sources */,
+				C6FE29A8289F0085006CDE2C /* FramedText.swift in Sources */,
+				C6FE2994289EAE05006CDE2C /* Colors.swift in Sources */,
+				C62E30E92892BFC100E65EE3 /* PremTeamsDTO.swift in Sources */,
 				C62E30BB2892B98800E65EE3 /* ContentView.swift in Sources */,
+				C62E30E62892BEFA00E65EE3 /* Services.swift in Sources */,
+				C6FE299E289EF925006CDE2C /* LeagueTable.swift in Sources */,
+				C6FE2999289EC2C2006CDE2C /* SplashShape.swift in Sources */,
+				C6FE2992289E9C1C006CDE2C /* Transitions.swift in Sources */,
+				C6FE2990289E9880006CDE2C /* Fonts.swift in Sources */,
+				C6FE29A0289EF9E2006CDE2C /* ExpandButton.swift in Sources */,
 				C62E30B92892B98800E65EE3 /* PremierLeagueTableApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -420,11 +534,13 @@
 				DEVELOPMENT_TEAM = V3532778TZ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PremierLeagueTable/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -449,11 +565,13 @@
 				DEVELOPMENT_TEAM = V3532778TZ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PremierLeagueTable/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
